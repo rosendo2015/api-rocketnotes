@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@rocketseat/eslint-config/node",
+    "prettier"
+  ],
+  "rules":{
+    "@typescript-eslint/no-var-requires":"off",
+    "camelcase":"off"
+  }
+} //for project node
